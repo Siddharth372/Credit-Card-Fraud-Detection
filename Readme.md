@@ -42,6 +42,9 @@ The dataset features are anonymized using PCA, except for `Time`, `Amount`, and 
 2. Install dependencies:
    pip install -r requirements.txt
    
-3. Launch the notebook:
+3. Download the Dataset:
+   from the link download and save it as creditcard.csv
+   
+5. Launch the notebook:
    jupyter notebook Credit_card_fraud_detection.ipynb
    
