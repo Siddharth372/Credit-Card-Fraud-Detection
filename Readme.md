@@ -24,14 +24,6 @@ Credit card fraud detection is a classic imbalanced classification problem. This
 
 ---
 
-## 📂 Project Structure
-
-├── Credit_card_fraud_detection.ipynb
-├── README.md
-└── requirements.txt (optional)
-
----
-
 ## 📊 Dataset
 
 - Source: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
