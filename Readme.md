@@ -25,6 +25,7 @@ Credit card fraud detection is a classic imbalanced classification problem. This
 ---
 
 ## 📂 Project Structure
+
 ├── Credit_card_fraud_detection.ipynb
 ├── README.md
 └── requirements.txt (optional)
@@ -44,9 +45,7 @@ The dataset features are anonymized using PCA, except for `Time`, `Amount`, and 
 ## ⚙️ How to Run
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/Siddharth372/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+   git clone https://github.com/Siddharth372/Credit-Card-Fraud-Detection.git
    
 2. Install dependencies:
    pip install -r requirements.txt
